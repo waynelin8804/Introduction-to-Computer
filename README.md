@@ -1,4 +1,4 @@
-# Introduction-to-Computer
+# Introduction to Computer
 計算機概論(Introduction to Computer)這科目的特色是每週都有程式作業，而且是使用
 教授的一套叫做 CAL 的系統來線上編輯程式與核對執行結果，有點像瘋狂程式或 CPE 那種系統。每
 週日晚上 10:00 讓同學們開始作答，把所有題目都答對的同學就在系上 BBS 推文說完成了，我和班上
